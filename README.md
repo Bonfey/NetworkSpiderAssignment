@@ -1,2 +1,0 @@
-# -
-Network Spider Assignment
